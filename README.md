@@ -1,2 +1,2 @@
 # Hello-World
-成为程序员的第一句话
+The first sentence after becoming a programmer
